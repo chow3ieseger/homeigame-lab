@@ -1,2 +1,14 @@
 # homeigame-lab
-HTML page archive and documentation
+
+独立 HTML 页面集合
+
+这里集中存放 HTML 页面，README 仅用于说明仓库用途。
+
+## 文件说明
+
+- `README.md`：仓库说明
+- `*.html`：发布后的独立页面
+
+## 更新说明
+
+仓库会随发布任务继续更新，已发布页面以实际文件为准。
